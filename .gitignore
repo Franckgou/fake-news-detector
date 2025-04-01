@@ -1,11 +1,25 @@
+# Python
 __pycache__/
 *.py[cod]
 *$py.class
+
+# Virtual Environment
 venv/
 env/
 .env
+
+# IDE
 .vscode/
 .idea/
+
+# System files
 .DS_Store
 Thumbs.db
+
+# Large files
 *.pkl
+*.csv
+*.png
+
+# Keep sample files
+!sample_*.txt
